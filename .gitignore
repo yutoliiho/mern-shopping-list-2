@@ -18,3 +18,8 @@ https://stackoverflow.com/questions/57248158/mern-stack-app-working-on-heroku-lo
 
 Decession:
 React is too hard and too much to remember, I am going to brush up on the backend first before dive into full stack.. ???
+
+4-23
+Problem solved: 
+looks like mongo db Network access issue. have a try this: login to MongoDB > 
+select you project > Network Access > ADD IP ADDRESS > click "ALLOW ACCESS FROM ANYWHERE". 
